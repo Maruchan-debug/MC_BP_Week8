@@ -1,0 +1,1336 @@
+﻿Log file open, 11/05/22 01:44:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=16024)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MC_BP_Week8
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/MC_BP_Week8.uproject" -EpicPortal -epicusername=JurrasicPunk -epicuserid=8cb7349cc57041ff8fccbcfc1e021112 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e0d9169c4fe7ee0fcd356b994439c802"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.283191
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-7B0A4338451A19C403F2428141416935
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=JurrasicPunk -epicuserid=8cb7349cc57041ff8fccbcfc1e021112 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.05-08.44.06:656][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.05-08.44.06:656][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.05-08.44.06:656][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.05-08.44.06:657][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.05-08.44.06:659][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.05-08.44.06:704][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.05-08.44.06:704][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.05-08.44.06:978][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1080 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.05-08.44.06:978][  0]LogD3D12RHI: Adapter has 8079MB of dedicated video memory, 0MB of dedicated system memory, and 20434MB of shared system memory, 1 output[s]
+[2022.11.05-08.44.06:988][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.05-08.44.06:988][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 20434MB of shared system memory, 0 output[s]
+[2022.11.05-08.44.06:992][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.05-08.44.06:992][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.05-08.44.06:992][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.05-08.44.06:992][  0]LogHAL: Display: Platform has ~ 40 GB [42853277696 / 68719476736 / 40], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.05-08.44.06:992][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.05-08.44.06:992][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.05-08.44.06:992][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.05-08.44.06:992][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.05-08.44.06:992][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.05-08.44.06:993][  0]LogInit: Computer: DESKTOP-2ET90V3
+[2022.11.05-08.44.06:993][  0]LogInit: User: mario
+[2022.11.05-08.44.06:993][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.11.05-08.44.06:993][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.05-08.44.06:993][  0]LogMemory: Memory total: Physical=39.9GB (40GB approx)
+[2022.11.05-08.44.06:993][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.05-08.44.06:993][  0]LogMemory: Process Physical Memory: 257.56 MB used, 266.91 MB peak
+[2022.11.05-08.44.06:993][  0]LogMemory: Process Virtual Memory: 198.74 MB used, 198.74 MB peak
+[2022.11.05-08.44.06:993][  0]LogMemory: Physical Memory: 10609.69 MB used,  30258.38 MB free, 40868.07 MB total
+[2022.11.05-08.44.06:993][  0]LogMemory: Virtual Memory: 13273.29 MB used,  33482.78 MB free, 46756.07 MB total
+[2022.11.05-08.44.06:993][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.05-08.44.06:999][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.05-08.44.07:012][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.05-08.44.07:013][  0]LogInit: Using OS detected language (en-US).
+[2022.11.05-08.44.07:013][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.05-08.44.07:020][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.05-08.44.07:286][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.05-08.44.07:299][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.05-08.44.07:299][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.05-08.44.07:299][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.05-08.44.07:313][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.05-08.44.07:313][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.05-08.44.07:456][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.05-08.44.07:461][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.05-08.44.07:461][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.05-08.44.07:554][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.05-08.44.07:615][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.05-08.44.07:622][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.05-08.44.07:635][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.05-08.44.07:654][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.05-08.44.07:654][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.05-08.44.07:700][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.11.05-08.44.07:700][  0]LogD3D12RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.05-08.44.07:701][  0]LogWindows: Attached monitors:
+[2022.11.05-08.44.07:701][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.05-08.44.07:701][  0]LogWindows: Found 1 attached monitors.
+[2022.11.05-08.44.07:701][  0]LogWindows: EnumDisplayDevices:
+[2022.11.05-08.44.07:701][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.05-08.44.07:701][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.05-08.44.07:701][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.05-08.44.07:702][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.05-08.44.07:702][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.05-08.44.07:702][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2022.11.05-08.44.07:702][  0]LogD3D12RHI:   Driver Version: 517.48 (internal:31.0.15.1748, unified:517.48)
+[2022.11.05-08.44.07:702][  0]LogD3D12RHI:      Driver Date: 9-21-2022
+[2022.11.05-08.44.07:702][  0]LogRHI: Texture pool is 4605 MB (70% of 6579 MB)
+[2022.11.05-08.44.07:702][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.05-08.44.07:702][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.05-08.44.07:718][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.05-08.44.07:723][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/MC_BP_Week8.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/MC_BP_Week8.uproject"  -platform=all'
+[2022.11.05-08.44.07:723][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/MC_BP_Week8.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Intermediate/TurnkeyReport_0.log" -log="C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Intermediate/TurnkeyLog_0.log" -project="C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/MC_BP_Week8.uproject"  -platform=all" ]
+[2022.11.05-08.44.07:744][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.05-08.44.07:752][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.05-08.44.07:752][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.05-08.44.07:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.05-08.44.07:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.05-08.44.07:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.05-08.44.07:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.05-08.44.07:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.05-08.44.07:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.05-08.44.07:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.05-08.44.07:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.05-08.44.07:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.05-08.44.07:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.05-08.44.07:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.05-08.44.07:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.05-08.44.07:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.05-08.44.07:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.05-08.44.07:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.05-08.44.07:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.05-08.44.07:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.05-08.44.07:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.05-08.44.07:821][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.05-08.44.07:828][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.05-08.44.07:830][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.05-08.44.07:830][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.05-08.44.07:830][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.05-08.44.07:830][  0]LogTargetPlatformManager:   PCM
+[2022.11.05-08.44.07:833][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.05-08.44.07:833][  0]LogTargetPlatformManager:   BINKA
+[2022.11.05-08.44.07:833][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.05-08.44.07:833][  0]LogTargetPlatformManager:   OGG
+[2022.11.05-08.44.07:833][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.05-08.44.07:833][  0]LogTargetPlatformManager:   OPUS
+[2022.11.05-08.44.07:874][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.05-08.44.07:879][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.05-08.44.07:882][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.05-08.44.07:882][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.05-08.44.07:882][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.05-08.44.07:882][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.05-08.44.07:882][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.05-08.44.07:882][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.05-08.44.07:882][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.05-08.44.07:882][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.05-08.44.07:882][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.05-08.44.07:887][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.05-08.44.07:888][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.05-08.44.07:889][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.05-08.44.07:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.05-08.44.07:892][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.05-08.44.07:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.05-08.44.07:892][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.05-08.44.07:915][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.05-08.44.07:915][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.05-08.44.07:915][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.05-08.44.07:926][  0]LogDerivedDataCache: Speed tests for C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.05-08.44.07:926][  0]LogDerivedDataCache: Display: Performance to C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=232.13MBs, RandomWriteSpeed=156.56MBs. Assigned SpeedClass 'Local'
+[2022.11.05-08.44.07:927][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.05-08.44.07:927][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.05-08.44.07:927][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.05-08.44.07:935][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.05-08.44.07:935][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.05-08.44.07:935][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Intermediate/Shaders/WorkingDirectory/8372/).
+[2022.11.05-08.44.07:935][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mario/AppData/Local/Temp/UnrealShaderWorkingDir/AC0C3653499C59CC08DD7685488E4C19/'.
+[2022.11.05-08.44.07:936][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.05-08.44.07:936][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.11.05-08.44.09:464][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.05-08.44.09:464][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.05-08.44.09:465][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.05-08.44.09:507][  0]LogAssetRegistry: FAssetRegistry took 0.0178 seconds to start up
+[2022.11.05-08.44.09:513][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.05-08.44.09:699][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.05-08.44.09:700][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.05-08.44.10:130][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.05-08.44.10:130][  0]LogDeviceProfileManager: Active device profile: [0000068BE7765240][0000068BDF2D0000 50] WindowsEditor
+[2022.11.05-08.44.10:130][  0]LogDeviceProfileManager: Profiles: [0000068BE7764D00][0000068BDF2D5000 50] Windows, [0000068BE7765240][0000068BDF2D0000 50] WindowsEditor, [0000068BE77647C0][0000068BDF277800 50] WindowsServer, [0000068BE7764980][0000068BDF21C800 50] WindowsClient, [0000068BE7760000][0000068BDF2D2800 50] IOS, [0000068BE7764440][0000068BD1DFA000 50] iPadAir2, [0000068BE7764280][0000068BE77A2800 50] IPadPro, [0000068BE77608C0][0000068BE77A0000 50] iPadAir3, [0000068BE7763800][0000068BE77A7800 50] iPadAir4, [0000068BE7761DC0][0000068BE77AA000 50] iPadMini4, [0000068BE7764600][0000068BE77AC800 50] iPadMini5, [0000068BE7760700][0000068BE13BC800 50] iPadMini6, [0000068BE7767E00][0000068BE77D5000 50] iPhone6S, [0000068BE7768180][0000068BE77D2800 50] iPhone7, [0000068BE7768500][0000068BE77D0000 50] iPodTouch7, [0000068BE7761C00][0000068BE77DA000 50] iPhone6SPlus, [0000068BE7767A80][0000068BE77DC800 50] iPhone7Plus, [0000068BE7762140][0000068BE77A5000 50] iPhoneSE, [0000068BE7765080][0000068BE7990000 50] iPhone8, [0000068BE7767700][0000068BE7995000 50] iPhone8Plus, [0000068BE7765940][0000068BE7997800 50] iPhoneX, [0000068BE7762F40][0000068BE799A000 50] iPhoneXS, [0000068BE7767540][0000068BE799C800 50] iPhoneXSMax, [0000068BE7768C00][0000068BE77D7800 50] iPhoneXR, [0000068BE7767380][0000068BE77E0000 50] iPhone11, [0000068BE7768880][0000068BE77E5000 50] iPhone11Pro, [0000068BE7768340][0000068BE77E7800 50] iPhone11ProMax, [0000068BE77686C0][0000068BE77EA000 50] iPhoneSE2, [0000068BE7766200][0000068BE77EC800 50] iPhone12Mini, [0000068BE7760E00][0000068BE7992800 50] iPhone12, [0000068BE7761A40][0000068BE77F0000 50] iPhone12Pro, [0000068BE7762BC0][0000068BE77F5000 50] iPhone12ProMax, [0000068BE77671C0][0000068BE77F7800 50] iPhone13Mini, [0000068BE7768A40][0000068BE77FA000 50] iPhone13, [0000068BE7766580][0000068BE77FC800 50] iPhone13Pro, [0000068BE7761F80][0000068BE77E2800 50] iPhone13ProMax, [0000068BE7762680][0000068BE79D0000 50] iPadPro105, [0000068BE77639C0][0000068BE79D5000 50] iPadPro129, [0000068BE7766900][0000068BE79D7800 50] iPadPro97, [0000068BE7763F00][0000068BE79DA000 50] iPadPro2_129, [0000068BE77640C0][0000068BE79DC800 50] iPad5, [0000068BE77632C0][0000068BE77F2800 50] iPad6, [0000068BE7760C40][0000068BE79E0000 50] iPad7, [0000068BE7765400][0000068BE79E5000 50] iPad8, [0000068BE7761340][0000068BE79E7800 50] iPad9, [0000068BE7762840][0000068BE79EA000 50] iPadPro11, [0000068BE7760380][0000068BE79EC800 50] iPadPro2_11, [0000068BE7765B00][0000068BE79D2800 50] iPadPro3_11, [0000068BE7760A80][0000068BE79F0000 50] iPadPro3_129, [0000068BE7760540][0000068BE79F5000 50] iPadPro4_129, [0000068BE7761180][0000068BE79F7800 50] iPadPro5_129, [0000068BE7765780][0000068BE79FA000 50] AppleTV, [0000068BE7766E40][0000068BE79FC800 50] AppleTV4K, [0000068BE7763640][0000068BE79E2800 50] TVOS, [0000068BE776A640][0000068BE7A02800 50] Mac, [0000068BE776A9C0][0000068BE7A00000 50] MacEditor, [0000068BE7761500][0000068BE7A07800 50] MacClient, [0000068BE77663C0][0000068BE7A0A000 50] MacServer, [0000068BE776AF00][0000068BE79F2800 50] Linux, [0000068BE776B280][0000068BE7A0C800 50] LinuxEditor, [0000068BE77616C0][0000068BE7A10000 50] LinuxArm64Editor, [0000068BE77624C0][0000068BE7A15000 50] LinuxArm64, [0000068BE7764B40][0000068BE7A17800 50] LinuxClient, [0000068BE7765E80][0000068BE7A1A000 50] LinuxArm64Client, [0000068BE7766AC0][0000068BE7A1C800 50] LinuxServer, [0000068BE7768DC0][0000068BE7A05000 50] LinuxArm64Server, [0000068BE7763B80][0000068BE7A20000 50] Android, [0000068BE7768F80][0000068BE7A25000 50] Android_Preview_OpenGL, [0000068BE77678C0][0000068BE7A27800 50] Android_Preview_Vulkan, [0000068BE776AB80][0000068BE7A2A000 50] Android_Low, [0000068BE7763D40][0000068BE7A2C800 50] Android_Mid, [0000068BE776A100][0000068BE7A12800 50] Android_High, [0000068BE776B0C0][0000068BE7A30000 50] Android_Default, [0000068BE7769680][0000068BE7A35000 50] Android_Adreno4xx, [0000068BE7767000][0000068BE7A37800 50] Android_Adreno5xx_Low, [0000068BE7763480][0000068BE7A3A000 50] Android_Adreno5xx, [0000068BE776BB40][0000068BE7A3C800 50] Android_Adreno6xx, [0000068BE7761880][0000068BE7A22800 50] Android_Adreno6xx_Vulkan, [0000068BE7769140][0000068BE7A40000 50] Android_Adreno7xx, [0000068BE7766C80][0000068BE7A45000 50] Android_Adreno7xx_Vulkan, [0000068BE7767C40][0000068BE7A47800 50] Android_Mali_T6xx, [0000068BE7766740][0000068BE7A4A000 50] Android_Mali_T7xx, [0000068BE776B7C0][0000068BE7A4C800 50] Android_Mali_T8xx, [0000068BE7762D80][0000068BE7A32800 50] Android_Mali_G71, [0000068BE7765CC0][0000068BE7A50000 50] Android_Mali_G72, [0000068BE7769840][0000068BE7A55000 50] Android_Mali_G72_Vulkan, [0000068BE776AD40][0000068BE7A57800 50] Android_Mali_G76, [0000068BE77601C0][0000068BE7A5A000 50] Android_Mali_G76_Vulkan, [0000068BE7769300][0000068BE7A5C800 50] Android_Mali_G77, [0000068BE776A2C0][0000068BE7A42800 50] Android_Mali_G77_Vulkan, [0000068BE77655C0][0000068BE7A60000 50] Android_Mali_G78, [0000068BE776C240][0000068BE7A65000 50] Android_Mali_G78_Vulkan, [0000068BE7766040][0000068BE7A67800 50] Android_Mali_G710, [0000068BE776A480][0000068BE7A6A000 50] Android_Mali_G710_Vulkan, [0000068BE776CCC0][0000068BE7A6C800 50] Android_Xclipse_920, [0000068BE7767FC0][0000068BE7A52800 50] Android_Xclipse_920_Vulkan, [0000068BE7762300][0000068BE7A70000 50] Android_Vulkan_SM5, [0000068BE776C940][0000068BE7A75000 50] Android_PowerVR_G6xxx, [0000068BE7763100][0000068BE7A77800 50] Android_PowerVR_GT7xxx, [0000068BE776B600][0000068BE7A7A000 50] Android_PowerVR_GE8xxx, [0000068BE7769D80][0000068BE7A7C800 50] Android_PowerVR_GM9xxx, [0000068BE776C400][0000068BE7A62800 50] Android_PowerVR_GM9xxx_Vulkan, [0000068BE776DC80][0000068BE7A80000 50] Android_TegraK1, [0000068BE7769A00][0000068BE7A85000 50] Android_Unknown_Vulkan, [0000068BE776D200][0000068BE7A87800 50] Oculus_Quest, [0000068BE776D900][0000068BE7A8A000 50] Oculus_Quest2, [0000068BE776D740][0000068BE7A8C800 50] HoloLens, 
+[2022.11.05-08.44.10:130][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.05-08.44.10:134][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.11.05-08.44.10:134][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Valid, Installed=1369.122.1.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.05-08.44.10:134][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.05-08.44.10:134][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.05-08.44.10:134][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.05-08.44.10:160][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.05-08.44.10:377][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.05-08.44.10:377][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.05-08.44.10:377][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.05-08.44.10:377][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.05-08.44.10:377][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.05-08.44.10:393][  0]LogNetVersion: MC_BP_Week8 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 672063297)
+[2022.11.05-08.44.10:544][  0]LogSlate: Border
+[2022.11.05-08.44.10:544][  0]LogSlate: BreadcrumbButton
+[2022.11.05-08.44.10:544][  0]LogSlate: Default
+[2022.11.05-08.44.10:544][  0]LogSlate: Icons.Save
+[2022.11.05-08.44.10:544][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.05-08.44.10:544][  0]LogSlate: ListView
+[2022.11.05-08.44.10:544][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.05-08.44.10:544][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.05-08.44.10:544][  0]LogSlate: TableView.DarkRow
+[2022.11.05-08.44.10:544][  0]LogSlate: TableView.Row
+[2022.11.05-08.44.10:544][  0]LogSlate: TreeView
+[2022.11.05-08.44.10:753][  0]SourceControl: Source control is disabled
+[2022.11.05-08.44.10:783][  0]SourceControl: Source control is disabled
+[2022.11.05-08.44.10:783][  0]SourceControl: Source control is disabled
+[2022.11.05-08.44.10:922][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.05-08.44.10:922][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.11.05-08.44.10:922][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.05-08.44.11:270][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 26EE5141423E56D5376294A0ADD48E8F | Instance: EC0BB95C4AACD995AEA8A4BBBF8CB5AC (DESKTOP-2ET90V3-8372).
+[2022.11.05-08.44.11:305][  0]LogPython: Using Python 3.9.7
+[2022.11.05-08.44.12:190][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.05-08.44.12:195][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.05-08.44.12:284][  0]SourceControl: Source control is disabled
+[2022.11.05-08.44.12:287][  0]SourceControl: Source control is disabled
+[2022.11.05-08.44.12:297][  0]SourceControl: Source control is disabled
+[2022.11.05-08.44.12:305][  0]LogUProjectInfo: Found projects:
+[2022.11.05-08.44.12:677][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.05-08.44.12:726][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.05-08.44.12:747][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.05-08.44.12:747][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.05-08.44.12:843][  0]LogCollectionManager: Loaded 0 collections in 0.002279 seconds
+[2022.11.05-08.44.12:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/Collections/' took 0.00s
+[2022.11.05-08.44.12:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/Developers/mario/Collections/' took 0.00s
+[2022.11.05-08.44.12:925][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/Collections/' took 0.00s
+[2022.11.05-08.44.13:275][  0]LogEngine: Initializing Engine...
+[2022.11.05-08.44.13:292][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.05-08.44.13:310][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.05-08.44.13:628][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.05-08.44.13:629][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.05-08.44.13:640][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.05-08.44.13:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.05-08.44.13:677][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.05-08.44.13:705][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.05-08.44.13:705][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.05-08.44.13:705][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.05-08.44.13:706][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.05-08.44.13:706][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.05-08.44.13:706][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.05-08.44.13:706][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.05-08.44.13:706][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.05-08.44.13:706][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.05-08.44.13:706][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.05-08.44.13:706][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.05-08.44.13:706][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.05-08.44.13:706][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.05-08.44.13:707][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.05-08.44.13:707][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.05-08.44.13:707][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.05-08.44.13:715][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.05-08.44.13:784][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2022.11.05-08.44.13:784][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.05-08.44.13:786][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.05-08.44.13:787][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.05-08.44.13:787][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.05-08.44.13:787][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.05-08.44.13:788][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.05-08.44.13:788][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.05-08.44.13:788][  0]LogInit: FAudioDevice initialized.
+[2022.11.05-08.44.13:789][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.05-08.44.13:789][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.05-08.44.13:789][  0]LogInit: Texture streaming: Enabled
+[2022.11.05-08.44.13:828][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.05-08.44.13:838][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.05-08.44.13:869][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.05-08.44.13:876][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.05-08.44.13:876][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.05-08.44.17:255][  0]LogLiveCoding: Display: First instance in process group "UE_MC_BP_Week8_0xcfb1010b", spawning console
+[2022.11.05-08.44.17:255][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.05-08.44.17:255][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.05-08.44.17:297][  0]LogInit: Transaction tracking system initialized
+[2022.11.05-08.44.17:395][  0]BlueprintLog: New page: Editor Load
+[2022.11.05-08.44.17:633][  0]LocalizationService: Localization service is disabled
+[2022.11.05-08.44.17:693][  0]TimingProfiler: Initialize
+[2022.11.05-08.44.17:693][  0]TimingProfiler: OnSessionChanged
+[2022.11.05-08.44.17:693][  0]LoadingProfiler: Initialize
+[2022.11.05-08.44.17:693][  0]LoadingProfiler: OnSessionChanged
+[2022.11.05-08.44.17:693][  0]NetworkingProfiler: Initialize
+[2022.11.05-08.44.17:694][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.05-08.44.17:694][  0]MemoryProfiler: Initialize
+[2022.11.05-08.44.17:694][  0]MemoryProfiler: OnSessionChanged
+[2022.11.05-08.44.18:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/' took 0.01s
+[2022.11.05-08.44.18:525][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.05-08.44.18:618][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.05-08.44.18:620][  0]SourceControl: Source control is disabled
+[2022.11.05-08.44.18:621][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.637
+[2022.11.05-08.44.18:621][  0]Cmd: MAP LOAD FILE="../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.05-08.44.18:622][  0]LightingResults: New page: Lighting Build
+[2022.11.05-08.44.18:636][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.05-08.44.18:637][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.05-08.44.18:637][  0]MapCheck: New page: Map Check
+[2022.11.05-08.44.18:637][  0]LightingResults: New page: Lighting Build
+[2022.11.05-08.44.18:665][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.05-08.44.18:671][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.05-08.44.18:916][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.11.05-08.44.18:925][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.11.05-08.44.18:934][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.11.05-08.44.18:965][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.11.05-08.44.18:965][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.05-08.44.18:965][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.05-08.44.18:966][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.11.05-08.44.18:989][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Props/SM_TableRound) ...
+[2022.11.05-08.44.19:008][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.05-08.44.19:016][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.05-08.44.19:016][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.05-08.44.19:017][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.189ms to complete.
+[2022.11.05-08.44.19:017][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.396
+[2022.11.05-08.44.19:032][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.048
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: ================================================
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.00%
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.05-08.44.19:032][  0]LogShaderCompilers: Display: ================================================
+[2022.11.05-08.44.19:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.05-08.44.19:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.05-08.44.19:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.05-08.44.19:224][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.05-08.44.19:415][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:415][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:425][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:425][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:433][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:433][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:441][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:441][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:462][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:462][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:471][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:471][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:479][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:479][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:486][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:486][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:493][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:493][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:501][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.05-08.44.19:501][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.05-08.44.19:502][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.05-08.44.19:868][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.05-08.44.19:884][  0]LogSlate: Took 0.008290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.05-08.44.19:892][  0]LogSlate: Took 0.006717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.05-08.44.19:921][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.11.05-08.44.20:921][  0]LogStall: Startup...
+[2022.11.05-08.44.20:922][  0]LogStall: Startup complete.
+[2022.11.05-08.44.20:951][  0]LogLoad: (Engine Initialization) Total time: 15.97 seconds
+[2022.11.05-08.44.20:951][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.05-08.44.21:043][  0]LogAssetRegistry: Asset discovery search completed in 11.5379 seconds
+[2022.11.05-08.44.21:053][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.05-08.44.21:074][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.05-08.44.21:118][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.05-08.46.08:510][424]LogDerivedDataCache: C:/Users/mario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.457 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.05-09.13.23:470][ 17]LogSlate: Took 0.016053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.05-09.13.25:292][196]LogSlate: Window 'Open Level' being destroyed
+[2022.11.05-09.13.35:577][792]LogSlate: Window 'New Level' being destroyed
+[2022.11.05-09.13.35:583][792]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.05-09.13.35:584][792]LightingResults: New page: Lighting Build
+[2022.11.05-09.13.35:584][792]LoadErrors: New page: Loading map: OpenWorld.umap
+[2022.11.05-09.13.35:587][792]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.11.05-09.13.35:587][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.05-09.13.35:587][792]MapCheck: New page: Map Check
+[2022.11.05-09.13.35:587][792]LightingResults: New page: Lighting Build
+[2022.11.05-09.13.35:594][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.05-09.13.35:599][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.05-09.13.35:604][792]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.11.05-09.13.35:612][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.05-09.13.35:612][792]LogAIModule: Creating AISystem for world Untitled_1
+[2022.11.05-09.13.35:613][792]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.05-09.13.35:613][792]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.05-09.13.35:873][792]LogWorldPartition: Display: WorldPartition initialize took 259 ms
+[2022.11.05-09.13.36:162][792]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.05-09.13.36:174][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.05-09.13.36:174][792]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.05-09.13.36:188][792]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 13.975ms to complete.
+[2022.11.05-09.13.36:189][792]LogFileHelpers: Loading map 'OpenWorld' took 0.605
+[2022.11.05-09.13.41:598][242]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.05-09.13.41:815][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.05-09.13.48:489][698]LogSlate: Took 0.005671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.05-09.13.52:302][ 15]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.05-09.13.52:314][ 15]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.05-09.13.52:322][ 16]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.05-09.13.54:266][150]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.11.05-09.13.54:267][150]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.05-09.14.01:090][748]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.05-09.14.06:340][959]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.11.05-09.14.06:369][959]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.11.05-09.14.06:376][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+[2022.11.05-09.14.06:394][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2022.11.05-09.14.06:401][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2022.11.05-09.14.06:406][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2022.11.05-09.14.06:412][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset"
+[2022.11.05-09.14.06:417][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
+[2022.11.05-09.14.06:422][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset"
+[2022.11.05-09.14.06:427][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+[2022.11.05-09.14.06:432][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset"
+[2022.11.05-09.14.06:437][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset"
+[2022.11.05-09.14.06:443][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2022.11.05-09.14.06:448][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2022.11.05-09.14.06:453][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset"
+[2022.11.05-09.14.06:458][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2022.11.05-09.14.06:464][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2022.11.05-09.14.06:469][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2022.11.05-09.14.06:475][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2022.11.05-09.14.06:481][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2022.11.05-09.14.06:489][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2022.11.05-09.14.06:494][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2022.11.05-09.14.06:500][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2022.11.05-09.14.06:505][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2022.11.05-09.14.06:510][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2022.11.05-09.14.06:516][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2022.11.05-09.14.06:521][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2022.11.05-09.14.06:526][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2022.11.05-09.14.06:531][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2022.11.05-09.14.06:536][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2022.11.05-09.14.06:541][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2022.11.05-09.14.06:546][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2022.11.05-09.14.06:551][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2022.11.05-09.14.06:556][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2022.11.05-09.14.06:562][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2022.11.05-09.14.06:567][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2022.11.05-09.14.06:572][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2022.11.05-09.14.06:577][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2022.11.05-09.14.06:583][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2022.11.05-09.14.06:588][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2022.11.05-09.14.06:593][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2022.11.05-09.14.06:598][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2022.11.05-09.14.06:603][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2022.11.05-09.14.06:608][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2022.11.05-09.14.06:615][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2022.11.05-09.14.06:620][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2022.11.05-09.14.06:625][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2022.11.05-09.14.06:630][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+[2022.11.05-09.14.06:635][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset"
+[2022.11.05-09.14.06:640][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2022.11.05-09.14.06:645][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2022.11.05-09.14.06:651][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2022.11.05-09.14.06:655][959]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset"
+[2022.11.05-09.14.06:806][959]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004521 seconds
+[2022.11.05-09.14.06:829][959]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData
+[2022.11.05-09.14.06:830][959]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/ThirdPersonMap_BuiltData229AED214626ABB6A2BC90AED54FA4E2.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset'
+[2022.11.05-09.14.06:842][959]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2022.11.05-09.14.06:842][959]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2022.11.05-09.14.06:842][959]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/ThirdPerson/Blueprints'
+[2022.11.05-09.14.06:850][959]AssetCheck: New page: Asset Save: ThirdPersonMap_BuiltData
+[2022.11.05-09.14.06:851][959]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+[2022.11.05-09.14.13:377][478]LogSlate: Window 'Content Browser' being destroyed
+[2022.11.05-09.14.13:385][478]LogSlate: Window 'Content Browser' being destroyed
+[2022.11.05-09.14.14:959][612]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.11.05-09.14.22:374][290]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.05-09.14.37:123][741]LogSlate: Window 'Save Level As' being destroyed
+[2022.11.05-09.14.50:974][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.05-09.14.53:604][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.05-09.15.08:454][121]LogSlate: Window 'Save Level As' being destroyed
+[2022.11.05-09.15.08:934][121]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BP_Map_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/BP_Map/6/B6/TUPTH8Q0G5RMYZDVQ5BKGW
+/Game/__ExternalObjects__/Maps/BP_Map/C/9C/92IZN6IJP8EJ20MQNVDKIJ
+/Game/__ExternalObjects__/Maps/BP_Map/C/IZ/936AG5NUJEHEK101AW21VU
+/Game/__ExternalObjects__/Maps/BP_Map/D/6E/X8FR4EY9H0DP41DCZEGRBM
+/Game/__ExternalObjects__/Maps/BP_Map/6/Q4/21ULZZO69K3IZOBRM3JM51
+/Game/__ExternalObjects__/Maps/BP_Map/4/SZ/RIR3SBF5UYET5S8SPURFWP
+/Game/__ExternalActors__/Maps/BP_Map/2/M7/09MA3U67BZIPF7YKB6AP73
+/Game/__ExternalActors__/Maps/BP_Map/B/UJ/GMYM5LV2AJJ3LKJEIDD5EP
+/Game/__ExternalActors__/Maps/BP_Map/1/HV/L7VDDC7RN3XG61OIS4UZ6E
+/Game/__ExternalActors__/Maps/BP_Map/A/U8/8S2ATUKDIG6ZK7CWHQHJM3
+/Game/__ExternalActors__/Maps/BP_Map/E/GM/JGR1MEIPJAN1QLFOQHV0SL
+/Game/__ExternalActors__/Maps/BP_Map/1/ZR/7CMCRE43JQ3EBOIGOEWFED
+/Game/__ExternalActors__/Maps/BP_Map/9/L2/2J9DYUVZJZQ7DR7MM6ABO3
+/Game/__ExternalActors__/Maps/BP_Map/2/OP/T514703CSDKFTA0G7M3LSR
+/Game/__ExternalActors__/Maps/BP_Map/D/AH/JZ06UEIFO4J86KQJUYQBO4
+/Game/__ExternalActors__/Maps/BP_Map/7/90/62NVF6V39D1NAFN58WWMJR
+/Game/__ExternalActors__/Maps/BP_Map/C/ZD/M2KQAPQS8BQYXSKMN73MPE
+/Game/__ExternalActors__/Maps/BP_Map/5/FU/DKQD41HK9YGOR3143SCQ9H
+/Game/__ExternalActors__/Maps/BP_Map/4/HA/CSBYBCXNR09PE6BMIOZZTN
+/Game/__ExternalActors__/Maps/BP_Map/D/U2/MRA6EOUNDXHDCLY45B73MF
+/Game/__ExternalActors__/Maps/BP_Map/A/7X/OUI79V76FQWQ3577MWLG1S
+/Game/__ExternalActors__/Maps/BP_Map/3/CF/YQX5I7JVB8KUQP9RGN3QDX
+/Game/__ExternalActors__/Maps/BP_Map/6/Y4/SCEVHUZNJSOCLXSJVXBAJN
+/Game/__ExternalActors__/Maps/BP_Map/D/TD/36FW5AQLFR9TIAAV5FA22L
+/Game/__ExternalActors__/Maps/BP_Map/D/R6/2DKNBJIPZVGBAYP53FGJBR
+/Game/__ExternalActors__/Maps/BP_Map/C/IQ/KP86FZHU29Y5XJEWOIUBPD
+/Game/__ExternalActors__/Maps/BP_Map/3/9O/CEFSL54QZV4TSL5QYFHSDP
+/Game/__ExternalActors__/Maps/BP_Map/7/TK/K4OXYBEV27S2TBRF4I2WYG
+/Game/__ExternalActors__/Maps/BP_Map/5/14/4ITAG0N8ZTHSY64RRTGJMN
+/Game/__ExternalActors__/Maps/BP_Map/0/MY/LBGNKHDTCHAIGVCK7RYWS3
+/Game/__ExternalActors__/Maps/BP_Map/B/VC/8MKNZUW8IJA6B0XUOXA0MW
+/Game/__ExternalActors__/Maps/BP_Map/E/FF/XQ0T9FCLNYM3WWWDV9HD6X
+/Game/__ExternalActors__/Maps/BP_Map/0/WV/XVFVQAM9O2CAN1NYKT2EDR
+/Game/__ExternalActors__/Maps/BP_Map/6/VJ/EYPNC8178YGHL1PZ9TPU0C
+/Game/__ExternalActors__/Maps/BP_Map/2/GE/ADZUKEJ9N7YTUX8P69FFIL
+/Game/__ExternalActors__/Maps/BP_Map/B/Q0/RRYV46T7HBTW82IM4S2R85
+/Game/__ExternalActors__/Maps/BP_Map/6/HX/R5GDAJJA8TGDCPETS82F7B
+/Game/__ExternalActors__/Maps/BP_Map/4/XC/50XO9QJSZGSZQCAH5V94HP
+/Game/__ExternalActors__/Maps/BP_Map/9/SJ/JSRO5ZGOIGN7001OJLVZ4F
+/Game/__ExternalActors__/Maps/BP_Map/C/WX/TCH6BZ3Q0YS9XWNFKNS3HR
+/Game/__ExternalActors__/Maps/BP_Map/A/JP/V7QSRF7GTW6B1BEE4KUNRK
+/Game/__ExternalActors__/Maps/BP_Map/D/UH/CMTB24AYGF1O8I04E4EFPG
+/Game/__ExternalActors__/Maps/BP_Map/9/D6/EBBNMTB8FQ7R9CS7518N6V
+/Game/__ExternalActors__/Maps/BP_Map/3/JR/6UQYPTWF6ND0S2CL8X0DM0
+/Game/__ExternalActors__/Maps/BP_Map/3/F0/NBBHDSXFHKEKV4GLKGVETD
+/Game/__ExternalActors__/Maps/BP_Map/2/JR/XVZY6MW5TGGGKQUOVGNB8L
+/Game/__ExternalActors__/Maps/BP_Map/E/YF/MF906MIW2SQX8C31ZJLICB
+/Game/__ExternalActors__/Maps/BP_Map/A/CX/0142VFFJKK29SUHD2YPBHF
+/Game/__ExternalActors__/Maps/BP_Map/6/7R/OSFHDWYPCCJ03YIYOI7IMR
+/Game/__ExternalActors__/Maps/BP_Map/A/6V/0B8S4DNDH7Q6NEVUIX83XG
+/Game/__ExternalActors__/Maps/BP_Map/E/E4/PJUOBLVS9DABCEFTCWLY1D
+/Game/__ExternalActors__/Maps/BP_Map/1/WY/RTP3Y7BS0SXNV82DA214ZU
+/Game/__ExternalActors__/Maps/BP_Map/7/D2/Q454UDSHRMXFO8GN4S5IVM
+/Game/__ExternalActors__/Maps/BP_Map/8/76/ZY6WYNGRUHI9UUVTFDROXX
+/Game/__ExternalActors__/Maps/BP_Map/A/GE/5EAVAMZ31SW05N9OH6KFUF
+/Game/__ExternalActors__/Maps/BP_Map/7/HX/4UTBCOY6TWC6N4AA8LE5DX
+/Game/__ExternalActors__/Maps/BP_Map/0/EA/K7484DCUUG0V367KL2QA8B
+/Game/__ExternalActors__/Maps/BP_Map/C/D8/BPB7HRVI8CJ59O4PFKN7V6
+/Game/__ExternalActors__/Maps/BP_Map/0/NJ/9P1BEI69BGYEZ03J8JVSOL
+/Game/__ExternalActors__/Maps/BP_Map/E/4M/I6NTCV24XLJ8KZMGR4U2XR
+/Game/__ExternalActors__/Maps/BP_Map/7/4Y/6BWKCK0KOKDIXR789F0IBR
+/Game/__ExternalActors__/Maps/BP_Map/6/GK/YZI18BL3XHTE4U08KNKC2S
+/Game/__ExternalActors__/Maps/BP_Map/C/WQ/GHU8MN9Z0F6PL28NEYQL1P
+/Game/__ExternalActors__/Maps/BP_Map/4/RX/OR8F78Q7MIMZ1IUVW4NQ5O
+/Game/__ExternalActors__/Maps/BP_Map/E/3Z/VSD897ZJKL140XMSJ09A7E
+/Game/__ExternalActors__/Maps/BP_Map/4/VU/MVG2GQ9X5LFI03SUSBOF8Q
+/Game/__ExternalActors__/Maps/BP_Map/9/PU/E0TFEM7EZALZU56JB61KLK
+/Game/__ExternalActors__/Maps/BP_Map/C/0T/XZ06QPKL6WSNPHL8VJHGT7
+/Game/__ExternalActors__/Maps/BP_Map/4/47/ILIQJCW92FY364TECIHCAX
+/Game/__ExternalActors__/Maps/BP_Map/B/OZ/PGCCZ2TKFQWGBHR72EKSWO
+/Game/__ExternalActors__/Maps/BP_Map/7/ZI/8QZ6PYQ6VB830F48CFQATM
+/Game/__ExternalActors__/Maps/BP_Map/5/XX/AOHSDB4X15PHAEFDXYJY72
+/Game/__ExternalActors__/Maps/BP_Map/9/GW/BMSWK1SBOM2SLBYFXQ9IFU
+/Game/__ExternalActors__/Maps/BP_Map/D/9E/8BRJTSRFHO48NO0J2P6OXN
+/Game/__ExternalActors__/Maps/BP_Map/B/9O/C2OW01LCMG8UFJFBHIQ3XI
+/Game/__ExternalActors__/Maps/BP_Map/0/MW/FPGBZSBYDXGNXU448D2XC7
+/Game/__ExternalActors__/Maps/BP_Map/6/NI/H4DNM331X7SQYO7KHFUC0G
+/Game/__ExternalActors__/Maps/BP_Map/C/0H/VC8F47B8ORRN48NZQRBLKF
+/Game/__ExternalActors__/Maps/BP_Map/A/42/5PH9M1WX0QC0YYO4PAJPUI
+/Game/__ExternalActors__/Maps/BP_Map/D/ZY/MZ9UQ9GCJTN0MISB65IH8Y
+/Game/__ExternalActors__/Maps/BP_Map/B/RM/ZQKGV6VRQXMH6NT9LXDS5M
+/Game/__ExternalActors__/Maps/BP_Map/5/EO/JQ7NLA8P13ZBDXJ3ICJYFL
+/Game/__ExternalActors__/Maps/BP_Map/A/C9/N5B1WN4TKS2EZRE209S4YD
+/Game/__ExternalActors__/Maps/BP_Map/C/5A/9NU8PHN99ZLX5IVK3346UL
+/Game/__ExternalActors__/Maps/BP_Map/1/YF/DD0Y9DERSZQHTYDO8B1M1J
+/Game/__ExternalActors__/Maps/BP_Map/C/QS/FZA7BDD3POS6810BCB2S5N
+/Game/__ExternalActors__/Maps/BP_Map/7/MD/97NYJ8FX50J8N8Z9ODW91J
+/Game/__ExternalActors__/Maps/BP_Map/1/18/XSI6A6LAR071ULASA13V2A
+/Game/__ExternalActors__/Maps/BP_Map/D/NG/NV20IGOSQB4IY8G273159N
+/Game/__ExternalActors__/Maps/BP_Map/8/BR/DMABXS5N4USBGZYW5MF0B8
+/Game/__ExternalActors__/Maps/BP_Map/3/0L/26ZSCYZKGMRJA0R3LHR783
+/Game/__ExternalActors__/Maps/BP_Map/1/2J/3YDOMNE6J3EO9HH4TYFKU5
+/Game/__ExternalActors__/Maps/BP_Map/A/0R/OT52MQ29553XH7MF8FJX2U
+/Game/__ExternalActors__/Maps/BP_Map/3/4C/5X3QKJ562DEONYTAQFPGAY
+/Game/__ExternalActors__/Maps/BP_Map/6/HB/8B6ZJR62RP47D16GIUUYEJ
+/Game/__ExternalActors__/Maps/BP_Map/A/C2/DWK940HN3MJM022OU00N20
+/Game/__ExternalActors__/Maps/BP_Map/D/OQ/WH9DNQG2539GYLCCFXG8OE
+/Game/__ExternalActors__/Maps/BP_Map/2/J9/GQL9ADKLOX1WE63SRIMYAJ
+/Game/__ExternalActors__/Maps/BP_Map/7/J8/KBJVLY4JLKFU3N2W5NK5Y7
+[2022.11.05-09.15.08:935][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BP_Map_HLOD0_Instancing" FILE="../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/Maps/BP_Map_HLOD0_Instancing.uasset" SILENT=true
+[2022.11.05-09.15.08:936][121]LogSavePackage: Moving output files for package: /Game/Maps/BP_Map_HLOD0_Instancing
+[2022.11.05-09.15.08:936][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/BP_Map_HLOD0_InstancingED982BEE4335FCD4E349BF86E3DB193B.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/Maps/BP_Map_HLOD0_Instancing.uasset'
+[2022.11.05-09.15.08:937][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/6/B6/TUPTH8Q0G5RMYZDVQ5BKGW
+[2022.11.05-09.15.08:937][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/TUPTH8Q0G5RMYZDVQ5BKGW2D7727984A1E8B19E769B88D16836CB2.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/6/B6/TUPTH8Q0G5RMYZDVQ5BKGW.uasset'
+[2022.11.05-09.15.08:940][121]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/BP_Map/C/9C/92IZN6IJP8EJ20MQNVDKIJ
+[2022.11.05-09.15.08:940][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/92IZN6IJP8EJ20MQNVDKIJ6B7D69774A83240A0C6B6C904C985188.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/Maps/BP_Map/C/9C/92IZN6IJP8EJ20MQNVDKIJ.uasset'
+[2022.11.05-09.15.08:943][121]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/BP_Map/C/IZ/936AG5NUJEHEK101AW21VU
+[2022.11.05-09.15.08:943][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/936AG5NUJEHEK101AW21VU27D95A7C44664F3FC8434EA5D5FEDAA2.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/Maps/BP_Map/C/IZ/936AG5NUJEHEK101AW21VU.uasset'
+[2022.11.05-09.15.08:946][121]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/BP_Map/D/6E/X8FR4EY9H0DP41DCZEGRBM
+[2022.11.05-09.15.08:946][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/X8FR4EY9H0DP41DCZEGRBM9843F7244780A94D3A236B9D6A6FC7B9.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/Maps/BP_Map/D/6E/X8FR4EY9H0DP41DCZEGRBM.uasset'
+[2022.11.05-09.15.08:949][121]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/BP_Map/6/Q4/21ULZZO69K3IZOBRM3JM51
+[2022.11.05-09.15.08:949][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/21ULZZO69K3IZOBRM3JM510655FFDD44C87223E53B1E9B71FDD301.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/Maps/BP_Map/6/Q4/21ULZZO69K3IZOBRM3JM51.uasset'
+[2022.11.05-09.15.08:956][121]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/BP_Map/4/SZ/RIR3SBF5UYET5S8SPURFWP
+[2022.11.05-09.15.08:956][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/RIR3SBF5UYET5S8SPURFWPE01258C24806EFF67233FF922E1209EF.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalObjects__/Maps/BP_Map/4/SZ/RIR3SBF5UYET5S8SPURFWP.uasset'
+[2022.11.05-09.15.08:965][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/2/M7/09MA3U67BZIPF7YKB6AP73
+[2022.11.05-09.15.08:965][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/09MA3U67BZIPF7YKB6AP7355792EE641ABA8E76B399CBA40EFA4BE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/2/M7/09MA3U67BZIPF7YKB6AP73.uasset'
+[2022.11.05-09.15.08:968][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/B/UJ/GMYM5LV2AJJ3LKJEIDD5EP
+[2022.11.05-09.15.08:968][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/GMYM5LV2AJJ3LKJEIDD5EPE843E47C4273F1F749506E8EE25AF381.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/B/UJ/GMYM5LV2AJJ3LKJEIDD5EP.uasset'
+[2022.11.05-09.15.08:971][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/1/HV/L7VDDC7RN3XG61OIS4UZ6E
+[2022.11.05-09.15.08:971][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/L7VDDC7RN3XG61OIS4UZ6E11ADB6DC42100D975DFDFC939A2D0745.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/1/HV/L7VDDC7RN3XG61OIS4UZ6E.uasset'
+[2022.11.05-09.15.08:974][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/U8/8S2ATUKDIG6ZK7CWHQHJM3
+[2022.11.05-09.15.08:974][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/8S2ATUKDIG6ZK7CWHQHJM30871231C448BB80B97B3D5BE94BA8D31.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/U8/8S2ATUKDIG6ZK7CWHQHJM3.uasset'
+[2022.11.05-09.15.08:977][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/E/GM/JGR1MEIPJAN1QLFOQHV0SL
+[2022.11.05-09.15.08:977][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/JGR1MEIPJAN1QLFOQHV0SLF6FA4F86486DAADBBD69AFA0A41B15D8.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/E/GM/JGR1MEIPJAN1QLFOQHV0SL.uasset'
+[2022.11.05-09.15.08:980][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/1/ZR/7CMCRE43JQ3EBOIGOEWFED
+[2022.11.05-09.15.08:980][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/7CMCRE43JQ3EBOIGOEWFED9A7E8C724D0E9B18F5FE06BE41DFE2C4.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/1/ZR/7CMCRE43JQ3EBOIGOEWFED.uasset'
+[2022.11.05-09.15.08:982][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/9/L2/2J9DYUVZJZQ7DR7MM6ABO3
+[2022.11.05-09.15.08:982][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/2J9DYUVZJZQ7DR7MM6ABO3A0DA527E48DB90F67CFABDB45B489832.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/9/L2/2J9DYUVZJZQ7DR7MM6ABO3.uasset'
+[2022.11.05-09.15.08:985][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/2/OP/T514703CSDKFTA0G7M3LSR
+[2022.11.05-09.15.08:985][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/T514703CSDKFTA0G7M3LSR4B9BE38B46DA1CBD24678FB67D6EBDDA.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/2/OP/T514703CSDKFTA0G7M3LSR.uasset'
+[2022.11.05-09.15.08:997][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/AH/JZ06UEIFO4J86KQJUYQBO4
+[2022.11.05-09.15.08:997][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/JZ06UEIFO4J86KQJUYQBO4577B228141F8CFB65978D9A17BF45CB9.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/AH/JZ06UEIFO4J86KQJUYQBO4.uasset'
+[2022.11.05-09.15.09:008][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/7/90/62NVF6V39D1NAFN58WWMJR
+[2022.11.05-09.15.09:008][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/62NVF6V39D1NAFN58WWMJR46D3561C4C187F20CEAEA3A7CAD484CB.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/7/90/62NVF6V39D1NAFN58WWMJR.uasset'
+[2022.11.05-09.15.09:019][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/ZD/M2KQAPQS8BQYXSKMN73MPE
+[2022.11.05-09.15.09:019][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/M2KQAPQS8BQYXSKMN73MPE6001996741C7037594DD8187975BCB71.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/ZD/M2KQAPQS8BQYXSKMN73MPE.uasset'
+[2022.11.05-09.15.09:030][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/5/FU/DKQD41HK9YGOR3143SCQ9H
+[2022.11.05-09.15.09:030][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/DKQD41HK9YGOR3143SCQ9H9CD6293E4E8F9898A8B9E3A0FE5704F1.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/5/FU/DKQD41HK9YGOR3143SCQ9H.uasset'
+[2022.11.05-09.15.09:041][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/4/HA/CSBYBCXNR09PE6BMIOZZTN
+[2022.11.05-09.15.09:041][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/CSBYBCXNR09PE6BMIOZZTN0A6F91164BD67EFF13FC799299638D8B.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/4/HA/CSBYBCXNR09PE6BMIOZZTN.uasset'
+[2022.11.05-09.15.09:052][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/U2/MRA6EOUNDXHDCLY45B73MF
+[2022.11.05-09.15.09:052][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/MRA6EOUNDXHDCLY45B73MFA7BCF5C94F52D174C3085495EF52E8FE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/U2/MRA6EOUNDXHDCLY45B73MF.uasset'
+[2022.11.05-09.15.09:063][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/7X/OUI79V76FQWQ3577MWLG1S
+[2022.11.05-09.15.09:063][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/OUI79V76FQWQ3577MWLG1S8B02382A498FE0BDADB2B2A42DDC26FE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/7X/OUI79V76FQWQ3577MWLG1S.uasset'
+[2022.11.05-09.15.09:074][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/3/CF/YQX5I7JVB8KUQP9RGN3QDX
+[2022.11.05-09.15.09:074][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/YQX5I7JVB8KUQP9RGN3QDX737299AF4D9BCA422BFF958673E6076A.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/3/CF/YQX5I7JVB8KUQP9RGN3QDX.uasset'
+[2022.11.05-09.15.09:085][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/6/Y4/SCEVHUZNJSOCLXSJVXBAJN
+[2022.11.05-09.15.09:085][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/SCEVHUZNJSOCLXSJVXBAJNFE65DE0C4195C3ED9DB7CBAAA7BB87EE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/6/Y4/SCEVHUZNJSOCLXSJVXBAJN.uasset'
+[2022.11.05-09.15.09:096][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/TD/36FW5AQLFR9TIAAV5FA22L
+[2022.11.05-09.15.09:096][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/36FW5AQLFR9TIAAV5FA22L2642EEE74B29053A3428B8A8A62912A1.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/TD/36FW5AQLFR9TIAAV5FA22L.uasset'
+[2022.11.05-09.15.09:107][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/R6/2DKNBJIPZVGBAYP53FGJBR
+[2022.11.05-09.15.09:107][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/2DKNBJIPZVGBAYP53FGJBRB57BBCCF44E2D8AF4B262C9188EDB0BC.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/R6/2DKNBJIPZVGBAYP53FGJBR.uasset'
+[2022.11.05-09.15.09:118][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/IQ/KP86FZHU29Y5XJEWOIUBPD
+[2022.11.05-09.15.09:118][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/KP86FZHU29Y5XJEWOIUBPDFD6F8D9F446BFA0F8226E68C46A3699A.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/IQ/KP86FZHU29Y5XJEWOIUBPD.uasset'
+[2022.11.05-09.15.09:129][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/3/9O/CEFSL54QZV4TSL5QYFHSDP
+[2022.11.05-09.15.09:129][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/CEFSL54QZV4TSL5QYFHSDP5800B0744F5BCF56D974B9833A2DE0F2.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/3/9O/CEFSL54QZV4TSL5QYFHSDP.uasset'
+[2022.11.05-09.15.09:143][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/7/TK/K4OXYBEV27S2TBRF4I2WYG
+[2022.11.05-09.15.09:143][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/K4OXYBEV27S2TBRF4I2WYGCA64472D4FAF6C91AD5FA59ED8D8C20D.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/7/TK/K4OXYBEV27S2TBRF4I2WYG.uasset'
+[2022.11.05-09.15.09:155][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/5/14/4ITAG0N8ZTHSY64RRTGJMN
+[2022.11.05-09.15.09:155][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/4ITAG0N8ZTHSY64RRTGJMN99A1BF4C45059D46613E20A4D6D74F9D.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/5/14/4ITAG0N8ZTHSY64RRTGJMN.uasset'
+[2022.11.05-09.15.09:166][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/0/MY/LBGNKHDTCHAIGVCK7RYWS3
+[2022.11.05-09.15.09:166][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/LBGNKHDTCHAIGVCK7RYWS34CF850A74FA577FF1AA5C69AFCC4C7DE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/0/MY/LBGNKHDTCHAIGVCK7RYWS3.uasset'
+[2022.11.05-09.15.09:177][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/B/VC/8MKNZUW8IJA6B0XUOXA0MW
+[2022.11.05-09.15.09:177][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/8MKNZUW8IJA6B0XUOXA0MW077612584AE8EF02793E60B5B5C47C7F.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/B/VC/8MKNZUW8IJA6B0XUOXA0MW.uasset'
+[2022.11.05-09.15.09:188][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/E/FF/XQ0T9FCLNYM3WWWDV9HD6X
+[2022.11.05-09.15.09:188][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/XQ0T9FCLNYM3WWWDV9HD6X4F587F93431E9EE15F6214B93BCBEA22.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/E/FF/XQ0T9FCLNYM3WWWDV9HD6X.uasset'
+[2022.11.05-09.15.09:200][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/0/WV/XVFVQAM9O2CAN1NYKT2EDR
+[2022.11.05-09.15.09:200][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/XVFVQAM9O2CAN1NYKT2EDR2BD7852B47F8D6413F64009CC96A38D6.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/0/WV/XVFVQAM9O2CAN1NYKT2EDR.uasset'
+[2022.11.05-09.15.09:211][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/6/VJ/EYPNC8178YGHL1PZ9TPU0C
+[2022.11.05-09.15.09:211][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/EYPNC8178YGHL1PZ9TPU0CB1EB51B34F4E9F131C61AE97F6BA799A.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/6/VJ/EYPNC8178YGHL1PZ9TPU0C.uasset'
+[2022.11.05-09.15.09:222][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/2/GE/ADZUKEJ9N7YTUX8P69FFIL
+[2022.11.05-09.15.09:222][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/ADZUKEJ9N7YTUX8P69FFIL91CBBA284A6AC7AE9AD0E1B757FC346B.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/2/GE/ADZUKEJ9N7YTUX8P69FFIL.uasset'
+[2022.11.05-09.15.09:233][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/B/Q0/RRYV46T7HBTW82IM4S2R85
+[2022.11.05-09.15.09:233][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/RRYV46T7HBTW82IM4S2R85FCE1F4774D49938192EE1097DCB06841.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/B/Q0/RRYV46T7HBTW82IM4S2R85.uasset'
+[2022.11.05-09.15.09:244][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/6/HX/R5GDAJJA8TGDCPETS82F7B
+[2022.11.05-09.15.09:244][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/R5GDAJJA8TGDCPETS82F7BBDD42E754E0C994CFD268DA0BF4C3142.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/6/HX/R5GDAJJA8TGDCPETS82F7B.uasset'
+[2022.11.05-09.15.09:254][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/4/XC/50XO9QJSZGSZQCAH5V94HP
+[2022.11.05-09.15.09:255][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/50XO9QJSZGSZQCAH5V94HPF93E34674F75FE04D24348A26D99C882.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/4/XC/50XO9QJSZGSZQCAH5V94HP.uasset'
+[2022.11.05-09.15.09:265][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/9/SJ/JSRO5ZGOIGN7001OJLVZ4F
+[2022.11.05-09.15.09:266][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/JSRO5ZGOIGN7001OJLVZ4FF22A383A4DA2ED37F64B4A918AD34B5C.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/9/SJ/JSRO5ZGOIGN7001OJLVZ4F.uasset'
+[2022.11.05-09.15.09:276][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/WX/TCH6BZ3Q0YS9XWNFKNS3HR
+[2022.11.05-09.15.09:276][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/TCH6BZ3Q0YS9XWNFKNS3HRE9CC7636409F326F5A8B3B82CDC753F7.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/WX/TCH6BZ3Q0YS9XWNFKNS3HR.uasset'
+[2022.11.05-09.15.09:288][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/JP/V7QSRF7GTW6B1BEE4KUNRK
+[2022.11.05-09.15.09:288][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/V7QSRF7GTW6B1BEE4KUNRK0C5A0A0C4C3B1A153C10589666D8D14B.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/JP/V7QSRF7GTW6B1BEE4KUNRK.uasset'
+[2022.11.05-09.15.09:299][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/UH/CMTB24AYGF1O8I04E4EFPG
+[2022.11.05-09.15.09:300][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/CMTB24AYGF1O8I04E4EFPG75591FF24C7126E6AA2EFEA394D11460.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/UH/CMTB24AYGF1O8I04E4EFPG.uasset'
+[2022.11.05-09.15.09:313][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/9/D6/EBBNMTB8FQ7R9CS7518N6V
+[2022.11.05-09.15.09:313][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/EBBNMTB8FQ7R9CS7518N6V9CB160BF4DD31DAC3E830CB05870F2EA.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/9/D6/EBBNMTB8FQ7R9CS7518N6V.uasset'
+[2022.11.05-09.15.09:324][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/3/JR/6UQYPTWF6ND0S2CL8X0DM0
+[2022.11.05-09.15.09:324][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/6UQYPTWF6ND0S2CL8X0DM011D7E46D4F85AE7BD58651B7429179E2.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/3/JR/6UQYPTWF6ND0S2CL8X0DM0.uasset'
+[2022.11.05-09.15.09:335][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/3/F0/NBBHDSXFHKEKV4GLKGVETD
+[2022.11.05-09.15.09:335][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/NBBHDSXFHKEKV4GLKGVETD298EBBF74B4720313031E1B15597D821.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/3/F0/NBBHDSXFHKEKV4GLKGVETD.uasset'
+[2022.11.05-09.15.09:346][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/2/JR/XVZY6MW5TGGGKQUOVGNB8L
+[2022.11.05-09.15.09:346][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/XVZY6MW5TGGGKQUOVGNB8LA7E7FF9C43879056FB76ABA7A8DE59DD.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/2/JR/XVZY6MW5TGGGKQUOVGNB8L.uasset'
+[2022.11.05-09.15.09:358][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/E/YF/MF906MIW2SQX8C31ZJLICB
+[2022.11.05-09.15.09:358][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/MF906MIW2SQX8C31ZJLICB018B2AAC42D3AABD4A443EB6087C35EE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/E/YF/MF906MIW2SQX8C31ZJLICB.uasset'
+[2022.11.05-09.15.09:369][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/CX/0142VFFJKK29SUHD2YPBHF
+[2022.11.05-09.15.09:369][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/0142VFFJKK29SUHD2YPBHFAF8DBE36466A2DC886C82586E3AF1D94.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/CX/0142VFFJKK29SUHD2YPBHF.uasset'
+[2022.11.05-09.15.09:380][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/6/7R/OSFHDWYPCCJ03YIYOI7IMR
+[2022.11.05-09.15.09:380][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/OSFHDWYPCCJ03YIYOI7IMR32A1D19442059980D2F0C2ACDDD9D066.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/6/7R/OSFHDWYPCCJ03YIYOI7IMR.uasset'
+[2022.11.05-09.15.09:391][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/6V/0B8S4DNDH7Q6NEVUIX83XG
+[2022.11.05-09.15.09:392][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/0B8S4DNDH7Q6NEVUIX83XG42F103DB42BD1A367B0B0C97037147EE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/6V/0B8S4DNDH7Q6NEVUIX83XG.uasset'
+[2022.11.05-09.15.09:403][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/E/E4/PJUOBLVS9DABCEFTCWLY1D
+[2022.11.05-09.15.09:403][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/PJUOBLVS9DABCEFTCWLY1D53F13FBB474BDE559B9765A4DCACA151.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/E/E4/PJUOBLVS9DABCEFTCWLY1D.uasset'
+[2022.11.05-09.15.09:414][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/1/WY/RTP3Y7BS0SXNV82DA214ZU
+[2022.11.05-09.15.09:414][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/RTP3Y7BS0SXNV82DA214ZU3D5741B64A33C7D6D88ED7A110E58822.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/1/WY/RTP3Y7BS0SXNV82DA214ZU.uasset'
+[2022.11.05-09.15.09:431][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/7/D2/Q454UDSHRMXFO8GN4S5IVM
+[2022.11.05-09.15.09:431][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/Q454UDSHRMXFO8GN4S5IVMB95F363040F8B028862FF3B859CB4D2A.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/7/D2/Q454UDSHRMXFO8GN4S5IVM.uasset'
+[2022.11.05-09.15.09:442][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/8/76/ZY6WYNGRUHI9UUVTFDROXX
+[2022.11.05-09.15.09:442][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/ZY6WYNGRUHI9UUVTFDROXX86321E63487F357F7568739E035D0BFB.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/8/76/ZY6WYNGRUHI9UUVTFDROXX.uasset'
+[2022.11.05-09.15.09:458][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/GE/5EAVAMZ31SW05N9OH6KFUF
+[2022.11.05-09.15.09:458][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/5EAVAMZ31SW05N9OH6KFUFCC96646D4B671CCE1DBEA89CBEFBFDE8.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/GE/5EAVAMZ31SW05N9OH6KFUF.uasset'
+[2022.11.05-09.15.09:469][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/7/HX/4UTBCOY6TWC6N4AA8LE5DX
+[2022.11.05-09.15.09:469][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/4UTBCOY6TWC6N4AA8LE5DXB952F9AB4EE7C04637839EB7D802EC44.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/7/HX/4UTBCOY6TWC6N4AA8LE5DX.uasset'
+[2022.11.05-09.15.09:480][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/0/EA/K7484DCUUG0V367KL2QA8B
+[2022.11.05-09.15.09:480][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/K7484DCUUG0V367KL2QA8B3E59EB2C43AD9FEC323751B62E70C29C.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/0/EA/K7484DCUUG0V367KL2QA8B.uasset'
+[2022.11.05-09.15.09:491][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/D8/BPB7HRVI8CJ59O4PFKN7V6
+[2022.11.05-09.15.09:491][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/BPB7HRVI8CJ59O4PFKN7V6402DA7EF4D5797D6FCD32E9FCF901BC2.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/D8/BPB7HRVI8CJ59O4PFKN7V6.uasset'
+[2022.11.05-09.15.09:503][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/0/NJ/9P1BEI69BGYEZ03J8JVSOL
+[2022.11.05-09.15.09:503][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/9P1BEI69BGYEZ03J8JVSOLD686740B4B1316B00FB578AB94C46235.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/0/NJ/9P1BEI69BGYEZ03J8JVSOL.uasset'
+[2022.11.05-09.15.09:514][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/E/4M/I6NTCV24XLJ8KZMGR4U2XR
+[2022.11.05-09.15.09:514][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/I6NTCV24XLJ8KZMGR4U2XR216CFE5D46061297F83FBA8D1DCA5D61.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/E/4M/I6NTCV24XLJ8KZMGR4U2XR.uasset'
+[2022.11.05-09.15.09:525][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/7/4Y/6BWKCK0KOKDIXR789F0IBR
+[2022.11.05-09.15.09:526][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/6BWKCK0KOKDIXR789F0IBR1DF325B24FDEA97951972B9F4CDD1F73.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/7/4Y/6BWKCK0KOKDIXR789F0IBR.uasset'
+[2022.11.05-09.15.09:536][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/6/GK/YZI18BL3XHTE4U08KNKC2S
+[2022.11.05-09.15.09:537][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/YZI18BL3XHTE4U08KNKC2SB9FA56944118D41CCE5D3B862E75682D.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/6/GK/YZI18BL3XHTE4U08KNKC2S.uasset'
+[2022.11.05-09.15.09:547][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/WQ/GHU8MN9Z0F6PL28NEYQL1P
+[2022.11.05-09.15.09:547][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/GHU8MN9Z0F6PL28NEYQL1P4A96E236493E67357513EAA8A5496E05.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/WQ/GHU8MN9Z0F6PL28NEYQL1P.uasset'
+[2022.11.05-09.15.09:559][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/4/RX/OR8F78Q7MIMZ1IUVW4NQ5O
+[2022.11.05-09.15.09:559][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/OR8F78Q7MIMZ1IUVW4NQ5O95E479484D6F5178FA9328B435DCFCD5.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/4/RX/OR8F78Q7MIMZ1IUVW4NQ5O.uasset'
+[2022.11.05-09.15.09:570][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/E/3Z/VSD897ZJKL140XMSJ09A7E
+[2022.11.05-09.15.09:570][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/VSD897ZJKL140XMSJ09A7E4A373B1A423A56FB9865E49919EF8191.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/E/3Z/VSD897ZJKL140XMSJ09A7E.uasset'
+[2022.11.05-09.15.09:581][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/4/VU/MVG2GQ9X5LFI03SUSBOF8Q
+[2022.11.05-09.15.09:581][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/MVG2GQ9X5LFI03SUSBOF8QC4DFF2AC4CF0162711B88FBAB863705A.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/4/VU/MVG2GQ9X5LFI03SUSBOF8Q.uasset'
+[2022.11.05-09.15.09:593][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/9/PU/E0TFEM7EZALZU56JB61KLK
+[2022.11.05-09.15.09:593][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/E0TFEM7EZALZU56JB61KLK46CD04CD46661E6D6EFFA7A5F14A1BD8.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/9/PU/E0TFEM7EZALZU56JB61KLK.uasset'
+[2022.11.05-09.15.09:603][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/0T/XZ06QPKL6WSNPHL8VJHGT7
+[2022.11.05-09.15.09:604][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/XZ06QPKL6WSNPHL8VJHGT797D7F6164F2670DA2F4E498BA62016A6.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/0T/XZ06QPKL6WSNPHL8VJHGT7.uasset'
+[2022.11.05-09.15.09:616][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/4/47/ILIQJCW92FY364TECIHCAX
+[2022.11.05-09.15.09:616][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/ILIQJCW92FY364TECIHCAX9F312C724ADF0A5E4139EE9F7032A602.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/4/47/ILIQJCW92FY364TECIHCAX.uasset'
+[2022.11.05-09.15.09:627][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/B/OZ/PGCCZ2TKFQWGBHR72EKSWO
+[2022.11.05-09.15.09:627][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/PGCCZ2TKFQWGBHR72EKSWO39C237274F1199F853E161AEE0C90F6A.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/B/OZ/PGCCZ2TKFQWGBHR72EKSWO.uasset'
+[2022.11.05-09.15.09:639][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/7/ZI/8QZ6PYQ6VB830F48CFQATM
+[2022.11.05-09.15.09:639][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/8QZ6PYQ6VB830F48CFQATMF0D1E17141F9B9BBE753E5B2897E4DAE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/7/ZI/8QZ6PYQ6VB830F48CFQATM.uasset'
+[2022.11.05-09.15.09:651][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/5/XX/AOHSDB4X15PHAEFDXYJY72
+[2022.11.05-09.15.09:651][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/AOHSDB4X15PHAEFDXYJY72DD642E1440E83AC5A0D2A6AAC9D6BAC7.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/5/XX/AOHSDB4X15PHAEFDXYJY72.uasset'
+[2022.11.05-09.15.09:663][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/9/GW/BMSWK1SBOM2SLBYFXQ9IFU
+[2022.11.05-09.15.09:663][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/BMSWK1SBOM2SLBYFXQ9IFUF026A08F4CB4AFE9D9E269BAB787FB93.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/9/GW/BMSWK1SBOM2SLBYFXQ9IFU.uasset'
+[2022.11.05-09.15.09:675][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/9E/8BRJTSRFHO48NO0J2P6OXN
+[2022.11.05-09.15.09:675][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/8BRJTSRFHO48NO0J2P6OXN4D0D7C6248E31C3FC0A7C8A6B17FD9EE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/9E/8BRJTSRFHO48NO0J2P6OXN.uasset'
+[2022.11.05-09.15.09:687][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/B/9O/C2OW01LCMG8UFJFBHIQ3XI
+[2022.11.05-09.15.09:688][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/C2OW01LCMG8UFJFBHIQ3XI23D314EA42039773E2F38ABB5B2E3705.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/B/9O/C2OW01LCMG8UFJFBHIQ3XI.uasset'
+[2022.11.05-09.15.09:699][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/0/MW/FPGBZSBYDXGNXU448D2XC7
+[2022.11.05-09.15.09:700][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/FPGBZSBYDXGNXU448D2XC731B6D6854639505962547BA9F1B73CCE.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/0/MW/FPGBZSBYDXGNXU448D2XC7.uasset'
+[2022.11.05-09.15.09:711][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/6/NI/H4DNM331X7SQYO7KHFUC0G
+[2022.11.05-09.15.09:711][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/H4DNM331X7SQYO7KHFUC0GE05A311445D93B66E7EE558AA56076A0.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/6/NI/H4DNM331X7SQYO7KHFUC0G.uasset'
+[2022.11.05-09.15.09:723][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/0H/VC8F47B8ORRN48NZQRBLKF
+[2022.11.05-09.15.09:723][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/VC8F47B8ORRN48NZQRBLKF7DB6B2DF44DFD23530D794869BC30639.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/0H/VC8F47B8ORRN48NZQRBLKF.uasset'
+[2022.11.05-09.15.09:940][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/42/5PH9M1WX0QC0YYO4PAJPUI
+[2022.11.05-09.15.09:940][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/5PH9M1WX0QC0YYO4PAJPUIBB52997B40657BCCBA2316AEA9C4D7E5.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/42/5PH9M1WX0QC0YYO4PAJPUI.uasset'
+[2022.11.05-09.15.10:335][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/ZY/MZ9UQ9GCJTN0MISB65IH8Y
+[2022.11.05-09.15.10:335][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/MZ9UQ9GCJTN0MISB65IH8Y1F6C6C3B4AD54ACDCFA82FA1F7B19C8F.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/ZY/MZ9UQ9GCJTN0MISB65IH8Y.uasset'
+[2022.11.05-09.15.11:458][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/B/RM/ZQKGV6VRQXMH6NT9LXDS5M
+[2022.11.05-09.15.11:458][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/ZQKGV6VRQXMH6NT9LXDS5M737045274B2E2F5FB991DB9E84826F7C.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/B/RM/ZQKGV6VRQXMH6NT9LXDS5M.uasset'
+[2022.11.05-09.15.11:650][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/5/EO/JQ7NLA8P13ZBDXJ3ICJYFL
+[2022.11.05-09.15.11:650][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/JQ7NLA8P13ZBDXJ3ICJYFLBFEF505640A4E2C115609F9B688A34EC.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/5/EO/JQ7NLA8P13ZBDXJ3ICJYFL.uasset'
+[2022.11.05-09.15.11:844][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/C9/N5B1WN4TKS2EZRE209S4YD
+[2022.11.05-09.15.11:844][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/N5B1WN4TKS2EZRE209S4YD7E58C2924B84363672C0AA808B6326DF.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/C9/N5B1WN4TKS2EZRE209S4YD.uasset'
+[2022.11.05-09.15.12:035][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/5A/9NU8PHN99ZLX5IVK3346UL
+[2022.11.05-09.15.12:035][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/9NU8PHN99ZLX5IVK3346ULA6E756B147E41EFFA13688AA0B67359F.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/5A/9NU8PHN99ZLX5IVK3346UL.uasset'
+[2022.11.05-09.15.12:995][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/1/YF/DD0Y9DERSZQHTYDO8B1M1J
+[2022.11.05-09.15.12:995][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/DD0Y9DERSZQHTYDO8B1M1J4C60721748B3DF33900E3F8ED82A0165.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/1/YF/DD0Y9DERSZQHTYDO8B1M1J.uasset'
+[2022.11.05-09.15.13:376][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/C/QS/FZA7BDD3POS6810BCB2S5N
+[2022.11.05-09.15.13:376][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/FZA7BDD3POS6810BCB2S5N4D4B224A470D244257B8FD8BAD5FD5CC.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/C/QS/FZA7BDD3POS6810BCB2S5N.uasset'
+[2022.11.05-09.15.13:565][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/7/MD/97NYJ8FX50J8N8Z9ODW91J
+[2022.11.05-09.15.13:565][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/97NYJ8FX50J8N8Z9ODW91J82E03A2B4A9980B0E879A8A7ABFE0975.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/7/MD/97NYJ8FX50J8N8Z9ODW91J.uasset'
+[2022.11.05-09.15.14:136][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/1/18/XSI6A6LAR071ULASA13V2A
+[2022.11.05-09.15.14:137][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/XSI6A6LAR071ULASA13V2A79FC9F064CCE1378B976778857647B6C.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/1/18/XSI6A6LAR071ULASA13V2A.uasset'
+[2022.11.05-09.15.14:327][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/NG/NV20IGOSQB4IY8G273159N
+[2022.11.05-09.15.14:327][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/NV20IGOSQB4IY8G273159N103AB72746E6B12FE02FC59A490E4305.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/NG/NV20IGOSQB4IY8G273159N.uasset'
+[2022.11.05-09.15.14:694][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/8/BR/DMABXS5N4USBGZYW5MF0B8
+[2022.11.05-09.15.14:694][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/DMABXS5N4USBGZYW5MF0B8DB22B633461DB8E20E28ED94C33FCC7E.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/8/BR/DMABXS5N4USBGZYW5MF0B8.uasset'
+[2022.11.05-09.15.15:822][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/3/0L/26ZSCYZKGMRJA0R3LHR783
+[2022.11.05-09.15.15:822][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/26ZSCYZKGMRJA0R3LHR78343475D744A97C9563565E797E2E5B993.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/3/0L/26ZSCYZKGMRJA0R3LHR783.uasset'
+[2022.11.05-09.15.16:014][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/1/2J/3YDOMNE6J3EO9HH4TYFKU5
+[2022.11.05-09.15.16:014][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/3YDOMNE6J3EO9HH4TYFKU5463928D34E23AC1AD2B8E7958FE3AFCB.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/1/2J/3YDOMNE6J3EO9HH4TYFKU5.uasset'
+[2022.11.05-09.15.16:394][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/0R/OT52MQ29553XH7MF8FJX2U
+[2022.11.05-09.15.16:394][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/OT52MQ29553XH7MF8FJX2U613D1FC2419BE43E7AED7F9D4CF2E331.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/0R/OT52MQ29553XH7MF8FJX2U.uasset'
+[2022.11.05-09.15.16:582][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/3/4C/5X3QKJ562DEONYTAQFPGAY
+[2022.11.05-09.15.16:582][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/5X3QKJ562DEONYTAQFPGAY97CD2BB94ACF40FF4BB5E2B9854C7D96.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/3/4C/5X3QKJ562DEONYTAQFPGAY.uasset'
+[2022.11.05-09.15.16:978][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/6/HB/8B6ZJR62RP47D16GIUUYEJ
+[2022.11.05-09.15.16:978][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/8B6ZJR62RP47D16GIUUYEJ2EC475B942EC8F0540D5618F7800543F.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/6/HB/8B6ZJR62RP47D16GIUUYEJ.uasset'
+[2022.11.05-09.15.17:167][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/A/C2/DWK940HN3MJM022OU00N20
+[2022.11.05-09.15.17:167][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/DWK940HN3MJM022OU00N20CEBEE7E94270F58B1AFD218E1E429FE9.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/A/C2/DWK940HN3MJM022OU00N20.uasset'
+[2022.11.05-09.15.17:539][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/D/OQ/WH9DNQG2539GYLCCFXG8OE
+[2022.11.05-09.15.17:539][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/WH9DNQG2539GYLCCFXG8OE30C7A8664DD33CC796025C8476AD282B.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/D/OQ/WH9DNQG2539GYLCCFXG8OE.uasset'
+[2022.11.05-09.15.17:728][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/2/J9/GQL9ADKLOX1WE63SRIMYAJ
+[2022.11.05-09.15.17:728][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/GQL9ADKLOX1WE63SRIMYAJF0E712824E5B9489A180D1984A0BD63A.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/2/J9/GQL9ADKLOX1WE63SRIMYAJ.uasset'
+[2022.11.05-09.15.19:066][121]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/BP_Map/7/J8/KBJVLY4JLKFU3N2W5NK5Y7
+[2022.11.05-09.15.19:066][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/KBJVLY4JLKFU3N2W5NK5Y777B7FD254ED7438FBE3E2B825A9AA182.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/__ExternalActors__/Maps/BP_Map/7/J8/KBJVLY4JLKFU3N2W5NK5Y7.uasset'
+[2022.11.05-09.15.19:076][121]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/BP_Map_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/BP_Map/6/B6/TUPTH8Q0G5RMYZDVQ5BKGW
+/Game/__ExternalObjects__/Maps/BP_Map/C/9C/92IZN6IJP8EJ20MQNVDKIJ
+/Game/__ExternalObjects__/Maps/BP_Map/C/IZ/936AG5NUJEHEK101AW21VU
+/Game/__ExternalObjects__/Maps/BP_Map/D/6E/X8FR4EY9H0DP41DCZEGRBM
+/Game/__ExternalObjects__/Maps/BP_Map/6/Q4/21ULZZO69K3IZOBRM3JM51
+/Game/__ExternalObjects__/Maps/BP_Map/4/SZ/RIR3SBF5UYET5S8SPURFWP
+/Game/__ExternalActors__/Maps/BP_Map/2/M7/09MA3U67BZIPF7YKB6AP73
+/Game/__ExternalActors__/Maps/BP_Map/B/UJ/GMYM5LV2AJJ3LKJEIDD5EP
+/Game/__ExternalActors__/Maps/BP_Map/1/HV/L7VDDC7RN3XG61OIS4UZ6E
+/Game/__ExternalActors__/Maps/BP_Map/A/U8/8S2ATUKDIG6ZK7CWHQHJM3
+/Game/__ExternalActors__/Maps/BP_Map/E/GM/JGR1MEIPJAN1QLFOQHV0SL
+/Game/__ExternalActors__/Maps/BP_Map/1/ZR/7CMCRE43JQ3EBOIGOEWFED
+/Game/__ExternalActors__/Maps/BP_Map/9/L2/2J9DYUVZJZQ7DR7MM6ABO3
+/Game/__ExternalActors__/Maps/BP_Map/2/OP/T514703CSDKFTA0G7M3LSR
+/Game/__ExternalActors__/Maps/BP_Map/D/AH/JZ06UEIFO4J86KQJUYQBO4
+/Game/__ExternalActors__/Maps/BP_Map/7/90/62NVF6V39D1NAFN58WWMJR
+/Game/__ExternalActors__/Maps/BP_Map/C/ZD/M2KQAPQS8BQYXSKMN73MPE
+/Game/__ExternalActors__/Maps/BP_Map/5/FU/DKQD41HK9YGOR3143SCQ9H
+/Game/__ExternalActors__/Maps/BP_Map/4/HA/CSBYBCXNR09PE6BMIOZZTN
+/Game/__ExternalActors__/Maps/BP_Map/D/U2/MRA6EOUNDXHDCLY45B73MF
+/Game/__ExternalActors__/Maps/BP_Map/A/7X/OUI79V76FQWQ3577MWLG1S
+/Game/__ExternalActors__/Maps/BP_Map/3/CF/YQX5I7JVB8KUQP9RGN3QDX
+/Game/__ExternalActors__/Maps/BP_Map/6/Y4/SCEVHUZNJSOCLXSJVXBAJN
+/Game/__ExternalActors__/Maps/BP_Map/D/TD/36FW5AQLFR9TIAAV5FA22L
+/Game/__ExternalActors__/Maps/BP_Map/D/R6/2DKNBJIPZVGBAYP53FGJBR
+/Game/__ExternalActors__/Maps/BP_Map/C/IQ/KP86FZHU29Y5XJEWOIUBPD
+/Game/__ExternalActors__/Maps/BP_Map/3/9O/CEFSL54QZV4TSL5QYFHSDP
+/Game/__ExternalActors__/Maps/BP_Map/7/TK/K4OXYBEV27S2TBRF4I2WYG
+/Game/__ExternalActors__/Maps/BP_Map/5/14/4ITAG0N8ZTHSY64RRTGJMN
+/Game/__ExternalActors__/Maps/BP_Map/0/MY/LBGNKHDTCHAIGVCK7RYWS3
+/Game/__ExternalActors__/Maps/BP_Map/B/VC/8MKNZUW8IJA6B0XUOXA0MW
+/Game/__ExternalActors__/Maps/BP_Map/E/FF/XQ0T9FCLNYM3WWWDV9HD6X
+/Game/__ExternalActors__/Maps/BP_Map/0/WV/XVFVQAM9O2CAN1NYKT2EDR
+/Game/__ExternalActors__/Maps/BP_Map/6/VJ/EYPNC8178YGHL1PZ9TPU0C
+/Game/__ExternalActors__/Maps/BP_Map/2/GE/ADZUKEJ9N7YTUX8P69FFIL
+/Game/__ExternalActors__/Maps/BP_Map/B/Q0/RRYV46T7HBTW82IM4S2R85
+/Game/__ExternalActors__/Maps/BP_Map/6/HX/R5GDAJJA8TGDCPETS82F7B
+/Game/__ExternalActors__/Maps/BP_Map/4/XC/50XO9QJSZGSZQCAH5V94HP
+/Game/__ExternalActors__/Maps/BP_Map/9/SJ/JSRO5ZGOIGN7001OJLVZ4F
+/Game/__ExternalActors__/Maps/BP_Map/C/WX/TCH6BZ3Q0YS9XWNFKNS3HR
+/Game/__ExternalActors__/Maps/BP_Map/A/JP/V7QSRF7GTW6B1BEE4KUNRK
+/Game/__ExternalActors__/Maps/BP_Map/D/UH/CMTB24AYGF1O8I04E4EFPG
+/Game/__ExternalActors__/Maps/BP_Map/9/D6/EBBNMTB8FQ7R9CS7518N6V
+/Game/__ExternalActors__/Maps/BP_Map/3/JR/6UQYPTWF6ND0S2CL8X0DM0
+/Game/__ExternalActors__/Maps/BP_Map/3/F0/NBBHDSXFHKEKV4GLKGVETD
+/Game/__ExternalActors__/Maps/BP_Map/2/JR/XVZY6MW5TGGGKQUOVGNB8L
+/Game/__ExternalActors__/Maps/BP_Map/E/YF/MF906MIW2SQX8C31ZJLICB
+/Game/__ExternalActors__/Maps/BP_Map/A/CX/0142VFFJKK29SUHD2YPBHF
+/Game/__ExternalActors__/Maps/BP_Map/6/7R/OSFHDWYPCCJ03YIYOI7IMR
+/Game/__ExternalActors__/Maps/BP_Map/A/6V/0B8S4DNDH7Q6NEVUIX83XG
+/Game/__ExternalActors__/Maps/BP_Map/E/E4/PJUOBLVS9DABCEFTCWLY1D
+/Game/__ExternalActors__/Maps/BP_Map/1/WY/RTP3Y7BS0SXNV82DA214ZU
+/Game/__ExternalActors__/Maps/BP_Map/7/D2/Q454UDSHRMXFO8GN4S5IVM
+/Game/__ExternalActors__/Maps/BP_Map/8/76/ZY6WYNGRUHI9UUVTFDROXX
+/Game/__ExternalActors__/Maps/BP_Map/A/GE/5EAVAMZ31SW05N9OH6KFUF
+/Game/__ExternalActors__/Maps/BP_Map/7/HX/4UTBCOY6TWC6N4AA8LE5DX
+/Game/__ExternalActors__/Maps/BP_Map/0/EA/K7484DCUUG0V367KL2QA8B
+/Game/__ExternalActors__/Maps/BP_Map/C/D8/BPB7HRVI8CJ59O4PFKN7V6
+/Game/__ExternalActors__/Maps/BP_Map/0/NJ/9P1BEI69BGYEZ03J8JVSOL
+/Game/__ExternalActors__/Maps/BP_Map/E/4M/I6NTCV24XLJ8KZMGR4U2XR
+/Game/__ExternalActors__/Maps/BP_Map/7/4Y/6BWKCK0KOKDIXR789F0IBR
+/Game/__ExternalActors__/Maps/BP_Map/6/GK/YZI18BL3XHTE4U08KNKC2S
+/Game/__ExternalActors__/Maps/BP_Map/C/WQ/GHU8MN9Z0F6PL28NEYQL1P
+/Game/__ExternalActors__/Maps/BP_Map/4/RX/OR8F78Q7MIMZ1IUVW4NQ5O
+/Game/__ExternalActors__/Maps/BP_Map/E/3Z/VSD897ZJKL140XMSJ09A7E
+/Game/__ExternalActors__/Maps/BP_Map/4/VU/MVG2GQ9X5LFI03SUSBOF8Q
+/Game/__ExternalActors__/Maps/BP_Map/9/PU/E0TFEM7EZALZU56JB61KLK
+/Game/__ExternalActors__/Maps/BP_Map/C/0T/XZ06QPKL6WSNPHL8VJHGT7
+/Game/__ExternalActors__/Maps/BP_Map/4/47/ILIQJCW92FY364TECIHCAX
+/Game/__ExternalActors__/Maps/BP_Map/B/OZ/PGCCZ2TKFQWGBHR72EKSWO
+/Game/__ExternalActors__/Maps/BP_Map/7/ZI/8QZ6PYQ6VB830F48CFQATM
+/Game/__ExternalActors__/Maps/BP_Map/5/XX/AOHSDB4X15PHAEFDXYJY72
+/Game/__ExternalActors__/Maps/BP_Map/9/GW/BMSWK1SBOM2SLBYFXQ9IFU
+/Game/__ExternalActors__/Maps/BP_Map/D/9E/8BRJTSRFHO48NO0J2P6OXN
+/Game/__ExternalActors__/Maps/BP_Map/B/9O/C2OW01LCMG8UFJFBHIQ3XI
+/Game/__ExternalActors__/Maps/BP_Map/0/MW/FPGBZSBYDXGNXU448D2XC7
+/Game/__ExternalActors__/Maps/BP_Map/6/NI/H4DNM331X7SQYO7KHFUC0G
+/Game/__ExternalActors__/Maps/BP_Map/C/0H/VC8F47B8ORRN48NZQRBLKF
+/Game/__ExternalActors__/Maps/BP_Map/A/42/5PH9M1WX0QC0YYO4PAJPUI
+/Game/__ExternalActors__/Maps/BP_Map/D/ZY/MZ9UQ9GCJTN0MISB65IH8Y
+/Game/__ExternalActors__/Maps/BP_Map/B/RM/ZQKGV6VRQXMH6NT9LXDS5M
+/Game/__ExternalActors__/Maps/BP_Map/5/EO/JQ7NLA8P13ZBDXJ3ICJYFL
+/Game/__ExternalActors__/Maps/BP_Map/A/C9/N5B1WN4TKS2EZRE209S4YD
+/Game/__ExternalActors__/Maps/BP_Map/C/5A/9NU8PHN99ZLX5IVK3346UL
+/Game/__ExternalActors__/Maps/BP_Map/1/YF/DD0Y9DERSZQHTYDO8B1M1J
+/Game/__ExternalActors__/Maps/BP_Map/C/QS/FZA7BDD3POS6810BCB2S5N
+/Game/__ExternalActors__/Maps/BP_Map/7/MD/97NYJ8FX50J8N8Z9ODW91J
+/Game/__ExternalActors__/Maps/BP_Map/1/18/XSI6A6LAR071ULASA13V2A
+/Game/__ExternalActors__/Maps/BP_Map/D/NG/NV20IGOSQB4IY8G273159N
+/Game/__ExternalActors__/Maps/BP_Map/8/BR/DMABXS5N4USBGZYW5MF0B8
+/Game/__ExternalActors__/Maps/BP_Map/3/0L/26ZSCYZKGMRJA0R3LHR783
+/Game/__ExternalActors__/Maps/BP_Map/1/2J/3YDOMNE6J3EO9HH4TYFKU5
+/Game/__ExternalActors__/Maps/BP_Map/A/0R/OT52MQ29553XH7MF8FJX2U
+/Game/__ExternalActors__/Maps/BP_Map/3/4C/5X3QKJ562DEONYTAQFPGAY
+/Game/__ExternalActors__/Maps/BP_Map/6/HB/8B6ZJR62RP47D16GIUUYEJ
+/Game/__ExternalActors__/Maps/BP_Map/A/C2/DWK940HN3MJM022OU00N20
+/Game/__ExternalActors__/Maps/BP_Map/D/OQ/WH9DNQG2539GYLCCFXG8OE
+/Game/__ExternalActors__/Maps/BP_Map/2/J9/GQL9ADKLOX1WE63SRIMYAJ
+/Game/__ExternalActors__/Maps/BP_Map/7/J8/KBJVLY4JLKFU3N2W5NK5Y7
+[2022.11.05-09.15.19:077][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BP_Map" FILE="../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/Maps/BP_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.05-09.15.19:085][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.05-09.15.19:089][121]LogSavePackage: Moving output files for package: /Game/Maps/BP_Map
+[2022.11.05-09.15.19:090][121]LogSavePackage: Moving '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Saved/BP_MapD8EF89694DBC0B1C6051348C0A759F4A.tmp' to '../../../../../../Users/mario/Desktop/Unreal Engine Projects/MC_BP_Week8/Content/Maps/BP_Map.umap'
+[2022.11.05-09.15.19:153][121]LogFileHelpers: Saving map 'BP_Map' took 10.691
+[2022.11.05-09.15.19:179][121]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating ActorFolder /Game/Maps/BP_Map.BP_Map:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating ActorFolder /Game/Maps/BP_Map.BP_Map:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating ActorFolder /Game/Maps/BP_Map.BP_Map:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating ActorFolder /Game/Maps/BP_Map.BP_Map:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating ActorFolder /Game/Maps/BP_Map.BP_Map:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating WorldDataLayers /Game/Maps/BP_Map.BP_Map:PersistentLevel.WorldDataLayers
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating World /Game/Maps/BP_Map.BP_Map
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating WorldPartitionMiniMap /Game/Maps/BP_Map.BP_Map:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating DirectionalLight /Game/Maps/BP_Map.BP_Map:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating StaticMeshActor /Game/Maps/BP_Map.BP_Map:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating SkyAtmosphere /Game/Maps/BP_Map.BP_Map:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating SkyLight /Game/Maps/BP_Map.BP_Map:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating ExponentialHeightFog /Game/Maps/BP_Map.BP_Map:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating VolumetricCloud /Game/Maps/BP_Map.BP_Map:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating Landscape /Game/Maps/BP_Map.BP_Map:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2022.11.05-09.15.19:179][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2022.11.05-09.15.19:180][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating LandscapeStreamingProxy /Game/Maps/BP_Map.BP_Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000dea15624
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000adcdef81
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000c6baa641
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000ffcbbfa1
+[2022.11.05-09.15.19:181][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_000000006f064fc3
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_000000002e9978b4
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_000000001344ec12
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000d580238e
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000d3a4e6c0
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000d560b8ee
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000596e8a41
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000837d3c27
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000b0cde8dc
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_0000000053252892
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000d190b65e
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_0000000010d5f002
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000db5f9a5d
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000dfad0108
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_0000000083c582a7
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_00000000923d253d
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating WorldPartitionHLOD /Game/Maps/BP_Map.BP_Map:PersistentLevel.HLOD0_Instancing_000000004e144344
+[2022.11.05-09.15.19:182][121]LogContentValidation: Display: Validating HLODLayer /Game/Maps/BP_Map_HLOD0_Instancing.BP_Map_HLOD0_Instancing
+[2022.11.05-09.24.54:579][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.11.05-09.24.54:580][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/BP_Map' took 0.011
+[2022.11.05-09.26.57:971][692]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.05-09.27.05:042][302]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.05-09.27.05:048][302]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.05-09.27.29:326][148]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.05-09.27.29:345][148]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.05-09.27.29:353][149]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.05-09.27.33:405][409]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.11.05-09.27.33:405][409]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.05-09.27.41:902][912]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.05-09.27.41:908][912]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.05-09.27.41:913][912]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.05-09.27.41:936][914]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.05-09.27.54:655][785]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MaterialChanger
+[2022.11.05-09.27.54:662][785]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.05-09.28.48:790][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MaterialChanger.BP_MaterialChanger
+[2022.11.05-09.28.48:792][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
